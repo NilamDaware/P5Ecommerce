@@ -1,0 +1,52 @@
+.book-card {
+    width: 180px;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    text-align: center;
+    transition: transform 0.2s ease;
+  }
+  
+  .book-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .book-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .book-title {
+    font-size: 1rem;
+    margin: 10px 0 5px;
+    color: #333;
+  }
+  
+  .book-price {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #0077cc;
+  }
+  
+  .buy-button {
+    padding: 6px 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .buy-button:hover {
+    background-color: #2980b9;
+  }
+
+.book-card {
+  cursor: pointer; 
+}
+
+

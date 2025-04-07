@@ -1,0 +1,27 @@
+/* CategoryBar.css */
+.category-bar {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    gap: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .category-btn {
+    padding: 8px 16px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    transition: 0.3s ease;
+  }
+  
+  .category-btn:hover {
+    background-color: #3498db;
+    color: white;
+    border-color: #3498db;
+  }
+  
