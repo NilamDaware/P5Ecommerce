@@ -1,1 +1,2 @@
 # P5Ecommerce
+BookNest is a full-stack online bookstore web application developed using the MERN stack. It allows users to browse books by categories, view detailed information, add books to a cart or wishlist, and manage their accounts through secure login and signup. The platform also features an admin panel where administrators can easily add, delete, and update book listings. BookNest aims to provide a smooth, organized, and user-friendly online book shopping experience.
